@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health is Wealth Gallery</title>
+    <style>
+
+        </style>
+        </head>
+        <link rel="stylesheet" type="text/css" href="project.css">
+<h1>Health is Wealth Gallery</h1>
+<p>Not only is our good good looking, it's health for you as well! A lot of people who come to our fitness center don't know what to eat 
+after their workout until they see our food court. We have some photos of what you can expect below.</p>
+<h2>Baked Foods</h2>
+<p><a href="Gallery baked.html"><img src="Baked-Sweet-Potato-4.jpg" alt="close-up of baked sweet potato" 
+width="200" height="200"></a></p><br> Our sweet potatoes have a natural sweetness with an insanely creamy texture. It's one of our most popular items.
+<h3>Our Healthy Burgers</h3>
+<p><a href="Healthy Burgers.html"><img src="burger.jpg" alt="close-up of our vegan burger"width="200" height="200"><br></a>
+Hearty, satisfying, and flavor-packed, this homemade veggie burger, whether cooked on the grill or in a frying pan, can hold its shape. Crispy on the outside, soft and textured on the inside, the black beluga lentils give the patty that grainy texture.<br>
+<h4>Fresh Fish Meal</h4>
+<p><a href="Fresh Fish.Html"><img src="fish.jpg" alt="Fresh caught fish"width="200" height="200"><br></a>
+Our chef makes it his mission to always aquire and serve the freshest fish possible, our salmon with veggies and a lime for that extra zest.</br>
+
+If you like what you see here check out our Summer Menu for even more delicious options!
+<a href= Page3.html> Summer Menu </a>
