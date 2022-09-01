@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Health is Wealth Rewards</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="project.css">
+<h1>Health Is Wealth Rewards</h1>
+<h2>Sign up Below to be eligible for our rewards system!</h2>
+<p>By signing up below you will be elgible for a bunch of free stuff the way the rewards work are everytime you swipe your card to enter the gym you'll be given points with those points you will be able to get things such as<br></p>
+A free lunch of your choice<br>
+2 Week Guest <br>
+...More options coming soon
+
+</script>
+</head>
+<body>
+<form action="">
+<table>
+<tr>
+<td>Username:</td>
+<td>
+<input type="text" id="txtUsername" />
+</td>
+</tr>
+<tr>
+<td>Password:</td>
+<td>
+<input type="password" id="txtPassword" />
+</td>
+</tr>
+<tr>
+<td>Email:</td>
+<td>
+<input type="email" id="txtEmail" />
+</td>
+</tr>
+<tr>
+<td><input type="Submit" id="btnSubmit"/></td>
+<td>
+<input type="reset" id="btnReset" />
+</td>
+</tr>
+</table>
+</form>
+</body>
+</html>
