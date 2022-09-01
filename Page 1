@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health is Wealth Fitness</title>
+    <style>
+
+        </style>
+        </head>
+        <link rel="stylesheet" type="text/css" href="project.css">
+    <h1><img src="healthisWealth.png" alt="logo"><br>Health is Wealth Fitness</h1>
+   
+    
+    <h2>The Fitness Center</h2>
+   <p>Health is Wealth offers a large indoor gym with many other activities
+    in an energetic setting. You can come try us out for two weeks no charge!</p>
+    
+    <h3>Activities</h3>
+    <p>We have a plethora of options from an indoor swimming pool to a smoothie bar
+    for you to enjoy your refereshing post workout drink to a daycare for your 
+    children to have fun while you enjoy the center.</p>
+    
+    <h4>Location and Hours</h4>
+    Detroit, Michigan;<br>
+    Monday through Thursday 6am to 12am;<br> Friday and Saturday 6am to 9pm
+</body>
+</html>
+<h1>Options</h1>
+<p>Here at Health is Wealth we have plenty of different activites that you may partake in which is what makes us such a diverse fitness center.</p>
+<h2>Basketball Courts</h2>
+<p>Our fitness center comes equipped with a full court Basketball arena with 2 main 10 ft rims with smaller rims on the side for children.</p>
+<h3>Sauna</h3>
+<p>After a long workout come step in to our fully equipped Sauna it will enchance your recovery process by increasing your 
+blood circulation and will relax your muscles.</p>
+<h4>Swimming pool and Jacuzzi</h4>
+<p>After a workout sometime you just need to cool down, well you can do that in our swimming pools which is also really good for your cardiovascular health. 
+Our jacuzzi is will also soothe your sore tired muscles.</p>
+<h4>Food/Smoothie bar</h4>
+<p>You might also be interested in a nice meal or smoothie after your workout, 
+all of our meals and smoothies are healthy and will help get you your daily protein dose which is a must for trying to build muscle and it's also very refreshing.</p>
+
+<article>
+    <h1>Article</h1>
+    <p>posted by HIW, May 30, 2022</p>
+    </header>
+    <h2>Getting Pushed</h2>
+    <p>This upcoming month we will be hiring some new personal trainers who will 
+    be willing to train anyone and give you the extra push you need. Please contact us for more information and rates. </p>
+    <p>Next month, we will begin catering our health fitness food choices please contact us before July 1st.</p>
+    <a href = "Healthiswealth@gmail.com">Send Email to HealthIsWealth</a></br>
+    123-456-7890</p></br>
+    For Information on our hours check out our home page <a href= “HomePage.html”> Back</a>
+
+
+    </article>
