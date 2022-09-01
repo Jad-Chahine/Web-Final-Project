@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health is Wealth Fitness</title>
+    <style>
+
+        </style>
+        </head>
+        <link rel="stylesheet" type="text/css" href="project.css">
+    <h1><img src="healthisWealth.png" alt="logo"><br>Health is Wealth Fitness</h1>
+   
+    <a href= Page1.html> Information </a><br>
+    <a href= Page2.html> Cafe Gallery </a><br>
+    <a href= Page3.html> Summer Menu </a><br>
+    <a href= Page4Video.html> Motivational Video </a><br>
+    <a href= Page5News.html> News </a><br>
+    <h2>The Fitness Center</h2>
+   <p>Health is Wealth offers a large indoor gym with many other activities
+    in an energetic setting. You can come try us out for two weeks no charge!</p>
+    
+    <h3>Activities</h3>
+    <p>We have a plethora of options from an indoor swimming pool to a smoothie bar
+    for you to enjoy your refereshing post workout drink to a daycare for your 
+    children to have fun while you enjoy the center.</p>
+    
+    <h4>Location and Hours</h4>
+    Detroit, Michigan;<br>
+    Monday through Thursday 6am to 12am;<br> Friday and Saturday 6am to 9pm</br>
+    <a href="https://www.animatedimages.org/cat-sports-279.htm"><img src="https://www.animatedimages.org/data/media/279/animated-sports-image-0107.gif" border="0" alt="animated-sports-image-0107" /></a>
+</body>
+</html>
